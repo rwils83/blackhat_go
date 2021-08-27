@@ -12,3 +12,6 @@ Results.txt in the directory it was run from.
 
 ## Again, why?
 Again, I was bored.
+
+## Seriously, why?
+Seriously, I get bored too. 
