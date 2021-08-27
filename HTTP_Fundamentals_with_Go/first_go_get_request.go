@@ -19,6 +19,6 @@ func main() {
 		log.Panicln(err)
 	}
 	fmt.Println(string(body))
-	// Add to write results to a file: ioutil.WriteFile("Results.txt", body, 0644)
+	ioutil.WriteFile("Results.txt", body, 0644)
 	r1.Body.Close()
 }
