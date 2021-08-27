@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce5dc85e-ea25-4ea0-a682-32c7c223f45e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Users\rwils\go\go1.15.3" />
+  <component name="ProjectId" id="1xF6O6x6wIcEdJWru4ZhNo4n0BT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\blackhat_go\Writing_A_TCP_Scanner" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build customary_echo_server_in_go.go">
+    <configuration name="go build First_A_STDIN_STDOUT_Wrapper.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="blackhat_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Writing_A_TCP_Proxy/First_A_STDIN_STDOUT_Wrapper.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build customary_echo_server_in_go.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="blackhat_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Writing_A_TCP_Proxy/customary_echo_server_in_go.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build final_port_scanner_with_port_sorting.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="blackhat_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/final_port_scanner_with_port_sorting.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build improved_io_reader_writer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="blackhat_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Writing_A_TCP_Proxy/improved_io_reader_writer.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build properly_using_worker_pools_for_scanner.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="blackhat_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/properly_using_worker_pools_for_scanner.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build customary_echo_server_in_go.go" />
+        <item itemvalue="Go Build.go build improved_io_reader_writer.go" />
+        <item itemvalue="Go Build.go build First_A_STDIN_STDOUT_Wrapper.go" />
+        <item itemvalue="Go Build.go build final_port_scanner_with_port_sorting.go" />
+        <item itemvalue="Go Build.go build properly_using_worker_pools_for_scanner.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1630030694774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-788.1152.2008/-3360.-1037.1152.2008/-1920.0.1920.1040@0.0.1920.1040" timestamp="1630030694774" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1630030694774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-788.1152.2008/-3360.-1037.1152.2008/-1920.0.1920.1040@0.0.1920.1040" timestamp="1630030694774" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1630030694774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-788.1152.2008/-3360.-1037.1152.2008/-1920.0.1920.1040@0.0.1920.1040" timestamp="1630030694774" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1630030694774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-788.1152.2008/-3360.-1037.1152.2008/-1920.0.1920.1040@0.0.1920.1040" timestamp="1630030694774" />
+  </component>
+</project>
