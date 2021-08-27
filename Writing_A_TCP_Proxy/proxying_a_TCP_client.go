@@ -7,8 +7,6 @@ import (
 	"net"
 )
 
-
-
 func handler (src net.Conn, outURL string) {
 
 	dst, err := net.Dial("tcp", outURL)
@@ -26,6 +24,7 @@ func handler (src net.Conn, outURL string) {
 		log.Fatalln(err)
 	}
 }
+
 func main() {
 	var send string
 	var inurl string
